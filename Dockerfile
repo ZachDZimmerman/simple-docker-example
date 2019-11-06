@@ -1,3 +1,3 @@
-FROM ubuntu:latest
+FROM busybox:latest
 
 cmd echo 'Hi Kaniko. It's alive.'
